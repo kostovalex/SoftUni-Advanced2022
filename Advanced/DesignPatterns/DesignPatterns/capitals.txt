@@ -1,0 +1,6 @@
+Moscow
+100
+Sofia
+200
+Berlin
+300
